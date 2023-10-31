@@ -25,7 +25,7 @@ public class Wallet {
 			this.colour=colour;
 			this.material=material;
 		}
-		Makupkit(int Noofpouches, String colour, String material,String type){
+		Makupkit(int Noofpouches, String colour, String material,boolean type){
 			super();
 			this.Noofpouches=Noofpouches;
 			this.colour=colour;
