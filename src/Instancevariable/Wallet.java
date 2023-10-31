@@ -5,7 +5,7 @@ public class Wallet {
 		int Noofpouches;
 		String colour;
 		String material;
-		boolean type;
+		String type;
 		
 		Makupkit(){
 			super();
