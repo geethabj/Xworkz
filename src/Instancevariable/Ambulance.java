@@ -9,6 +9,7 @@ public class Ambulance {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("====yash=====");
 		System.out.println("stating main method ");
 		Ambulance ambulance = new Ambulance();
 		System.out.println("Ambulance length : " + ambulance.length);
